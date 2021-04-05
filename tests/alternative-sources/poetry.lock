@@ -1,0 +1,23 @@
+[[package]]
+name = "logfmt-logger"
+version = "0.1.1"
+description = "Logger following the logfmt format with sound defaults"
+category = "main"
+optional = false
+python-versions = ">=3.7,<4.0"
+
+[package.source]
+type = "legacy"
+url = "https://gitlab.com/api/v4/projects/25574279/packages/pypi/simple"
+reference = "gitlab"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.7"
+content-hash = "878421eaf66efc45e6e2b804a69142eafefd8573c8817ac6c6be9bde78b9f6cf"
+
+[metadata.files]
+logfmt-logger = [
+    {file = "logfmt-logger-0.1.1.tar.gz", hash = "sha256:7cc881e750d1cd4574297f35f0087470a6235d3cb55f84e2c11101ec76f1026d"},
+    {file = "logfmt_logger-0.1.1-py3-none-any.whl", hash = "sha256:d5a4d6d580b13f1d918d5dd6c45fdb9c36bc6ce9e0c2bea4201fd12320bbd3a6"},
+]
